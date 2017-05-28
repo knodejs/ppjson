@@ -1,5 +1,7 @@
 ## User
 
+table data
+
 ```json
 {
   "id": 1,
@@ -15,3 +17,15 @@
   "is_active": 1
 }
 ```
+
+create User
+```json
+{
+  "username": "admin1",
+  "email": "admin1@email.com",
+  "password": "12345",
+  "role": "admin",
+  "profile_image": 1,
+}
+```
+create
