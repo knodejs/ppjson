@@ -2,4 +2,4 @@ Paperspace Json
 
 ## Documentation
 
-- [User](doc/user.md)
+- [User](docs/user.md)
